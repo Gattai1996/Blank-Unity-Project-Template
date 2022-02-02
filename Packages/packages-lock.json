@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "blank-unity-project-template": {
+      "version": "file:Blank-Unity-Project-Template-Package",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "1.13.5",
       "depth": 0,

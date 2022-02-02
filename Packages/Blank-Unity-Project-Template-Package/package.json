@@ -1,0 +1,19 @@
+{
+  "name": "blank-unity-project-template",
+  "version": "1.0.0",
+  "description": "A blank and organized Unity project template, use the sample \"Setup\" for a quick setup to new projects.",
+  "displayName": "Blank Project Template",
+  "unity": "2020.3",
+  "samples": [
+    {
+      "displayName": "Setup",
+      "description": "A quick setup to new projects.",
+      "path": "Samples~/Setup"
+    }
+  ],
+  "author": {
+    "name": "Bruno Gattai",
+    "email": "brunogattai1996@gmail.com",
+    "url": "https://github.com/Gattai1996"
+  }
+}
